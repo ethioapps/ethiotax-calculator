@@ -4,7 +4,7 @@ The app is helpful for accountants to calculate VAT and Employees net salary.
 It’s also for employees who want to know their net salary from their basic salary amount.
 Especially on salary negotiation time.
 The calculation formula for Salary & VAT is based on the latest Proclamation.
-Note: Basic salary means without allowance.
+Note: <small>Basic salary means without allowance.</small>
 # Download
 <strong>Android</strong>
 Require: Android 4.4.2
