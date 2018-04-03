@@ -8,8 +8,8 @@ Note: <small>Basic salary means without allowance.</small>
 # Download
 <strong>Android</strong>
 Require: Android 4.4.2
-<a href="https://github.com/jayralencar/sqlite-sync.js">Download</a>
+<a href="https://raw.githubusercontent.com/mamekdr/ethiotax-calculator/master/apps/android/EthioTAX_Calculator_v1.0.0.apk">Download</a>
 <strong>Windows Phone</strong>
 Require: Windows Phone 10
-<a href="https://github.com/jayralencar/sqlite-sync.js">Download</a>
+<a href="https://raw.githubusercontent.com/mamekdr/ethiotax-calculator/master/apps/windows_phone/EthioTAX_Calculator.Windows10_v1.0.0._x86.appx">Download</a>
 
