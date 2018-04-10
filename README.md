@@ -8,8 +8,8 @@ The calculation formula for Salary & VAT is based on the latest Proclamation.<br
 # Download
 <strong>Android</strong><br>
 Require: Minimum Android 4.4.2<br>
-<a href="https://raw.githubusercontent.com/ethioapps/ethiotax-calculator/master/apps/android/EthioTAX_Calculator_v1.0.0.apk">Download</a><br>
+<a href="https://raw.githubusercontent.com/ethioapps/ethiotax-calculator/master/apps/android/EthioTAX_Calculator_v1.0.1.apk">Download</a><br>
 <strong>Windows Phone</strong><br>
 Require: Minimum Windows Phone 10<br>
-<a href="https://raw.githubusercontent.com/ethioapps/ethiotax-calculator/master/apps/windows_phone/EthioTAX_Calculator.Windows10_v1.0.0._x86.appx">Download</a>
+<a href="https://raw.githubusercontent.com/ethioapps/ethiotax-calculator/master/apps/windows_phone/EthioTAX_Calculator.Windows10_v1.0.1._x86.appx">Download</a>
 
